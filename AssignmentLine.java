@@ -15,7 +15,7 @@ public class AssignmentLine extends GradeCalculator{
     }
 
     void createUI(JPanel basePanel){
-        // create assignment name field
+        // create weight field 
         weightField = new JTextField(4);
         panel.add(weightField);
 
