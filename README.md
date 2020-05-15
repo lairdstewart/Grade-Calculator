@@ -8,3 +8,5 @@ Right textbox holds assignments, their types, and grades recieved. Add manually 
 Calculate grade at the bottom takes weights into account and calculates grade. 
 
 The two tabs at the top can't be changed through the gui, change titles or add more manually through 'mainPane' method in MainFrame.  
+
+note: if the path to the file contains any folders with spaces the program will not save the information. 
